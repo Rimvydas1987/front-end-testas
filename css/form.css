@@ -42,5 +42,6 @@ p:last-of-type {
 }
 .checkbox {
     margin-top: 20px;
+    margin-bottom: 20px;
     line-height: 14px;
 }
