@@ -14,12 +14,16 @@ main {
       margin-left: calc(50% - 700px);
 }
 .left-column {
-    background-image: url(../images/left_pic.png);
     float: left;
     padding: 80px;
     width: 40%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .right-column {
+
     background-image: url(../images/miestas.png);
     float: right;      
     width: 60%;
