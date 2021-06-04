@@ -1,0 +1,31 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+
+}
+main {
+    
+}
+.left-column {
+    background-image: url(../images/left_pic.png);
+    float: left;
+    padding: 60px;
+    width: 40%;
+
+}
+.right-column {
+    background-image: url(../images/miestas.png);
+    float: right;
+    width: 60%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
