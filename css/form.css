@@ -1,0 +1,19 @@
+h1 {
+    font-size: 30px;
+    color: #3851fd;
+    text-transform: capitalize;
+}
+p {
+    font-size: 50px;
+    text-transform: capitalize;
+    color: black;
+}
+p:last-of-type {
+    text-transform: none;
+    color: #8a8c99;
+}
+.form-row {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
