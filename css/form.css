@@ -28,6 +28,11 @@ p:last-of-type {
     border: 1px solid;
     border-color: #8a8c99;
 }
+.form-row:focus-within {
+    border-left: #3851fd 3px solid;
+    
+}
+
 .form-row > input {
     border: none;
     outline: none;
