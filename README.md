@@ -9,7 +9,7 @@ _29 group website project_
 
 This project is front-end-test. You are welcome to look, but don`t copy. Think for yourself.
 
-Site published at
+Site published at https://rimvydas1987.github.io/front-end-testas/
 
 Design: [Sign in](https://cdn.discordapp.com/attachments/850245533838868480/850246623883034644/login_screen.png)
 
