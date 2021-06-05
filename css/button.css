@@ -25,15 +25,12 @@ button {
     border: 1px solid;
     box-shadow: 0px 4px 8px 0pc #0005;
 }
-
-
 .links-b {
     display: flex;
     margin-top: 40px;
     flex-direction: row;
     gap: 25px;
     color: #8a8c99;
-    
 }
 .links-b > a {
     text-decoration: none;

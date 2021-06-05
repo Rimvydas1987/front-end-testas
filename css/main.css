@@ -6,9 +6,6 @@ body * {
     box-sizing: border-box;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-body{
-
-}
 main {
       width: 1400px;
       margin-left: calc(50% - 700px);
@@ -23,7 +20,6 @@ main {
     background-size: cover;
 }
 .right-column {
-
     background-image: url(../images/miestas.png);
     float: right;      
     width: 60%;
